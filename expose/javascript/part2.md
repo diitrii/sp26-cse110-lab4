@@ -15,4 +15,10 @@
     C. student.greeting()
     D. student["Favorite Teacher"].name
     E. student.courseLoad[0]
-13. 
+13.  
+    A. '32' since integers map to their exact string representation
+    B. 1 since integers map to exact string representation
+    C. 3, since null means nothing, so adding null to 3 just remains 3
+    D. '3null' since it's a string, so 'null' is a string and it just treats the whole thing as a string
+    E. 4 because 'true' is counted as a 1, so 3 + 1 = 4
+    F. 0 because 
